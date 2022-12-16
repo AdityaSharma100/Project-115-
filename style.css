@@ -1,0 +1,8 @@
+h1{
+    font-size: 25px !important;
+}
+
+canvas{
+    border: 4px black solid;
+    background-color: white !important;
+}
